@@ -1,2 +1,2 @@
 # hello-world
-just a repository i created so i can test docker and kubernetes
+just a repository i created to test docker and kubernetes
